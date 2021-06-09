@@ -148,6 +148,10 @@ public class Main {
 //        // EVENT 3: ROAD TO GLORY
 //        Event event3 = new RoadToGlory(s1, students);
 //        event3.execute();
+//        
+//        // EVENT 4: ARRANGING BOOKS
+//        Event event4 = new ArrangingBooks(s4);
+//        event4.execute();
 //
 //        //EVENT 5: CRUSH
 //        Event event5 = new Crush(s1, s6, students);
